@@ -45,7 +45,24 @@ GRIDS  IN TW
 
 
 
+Responsiveness in Tailwind CSS 
+    To cahgne the grid cols based on Resppnsiveness
+    TCSS provides breakpoints 
+        sm -- < 640px
+        md 
+        lg
+        xl
+        2xl
+    For diffrent screen sizes we have diffrent breakooints
 
+    TO Make a Responsiveness
+        TCSS we need to use first for mobile devices and then add it to larger screens on the go 
+            To conditionally specify styles in css 
+                class='sm:text-center'
+        Below sm Default exitsa and anyhting above froma  braeakpositnteh styles come it
+            SO we need to add at each style and do it
+        So after a Breakpoint till 2xl it takes the style , before hat efault 
+        
 
 
 
