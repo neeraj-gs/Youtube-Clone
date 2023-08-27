@@ -1,3 +1,5 @@
+import
+
 const VIDEOS =[{
 
 },{
@@ -7,7 +9,14 @@ const VIDEOS =[{
 
 
 export const VideoGrid = ()=>{
-    return <div>
+    return <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
+        {VIDEOS.map(video => <div>
+            <VideoCard
+                title:{video.titel},
+                image
+                ...add all here
+            ></VideoCard>
+        </div>)}
 
     </div>
 }
