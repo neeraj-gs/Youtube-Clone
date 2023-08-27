@@ -30,6 +30,20 @@ This is how we do in Raw HTML
         justify-between ... 
 
 
+GRIDS  IN TW 
+    Another way instead of Flex to arrangs block to inline 
+    grid grid-cols-3
+        3 eleemtns are added onto the webapge equally spaced 
+    
+    To amke Grids with diffrent widrhs
+        If extra spavce it will be emoty 
+
+            For unequal Widths to split window into 12 parts
+                We specify there are 12 children    grid-cols-12
+                Fir each element 
+                col-span-x //takes x sapces and works on it 
+
+
 
 
 
