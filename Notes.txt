@@ -1,0 +1,10 @@
+Youtube CLone
+    ONyl Frontend based on ReactJS + NExtJS and Tailwind CSS 
+
+Thigs to know in a frontend Framework
+    1.FLex 
+    2.Grids
+    3.Responsiveness
+    4.Bg color,text,color,hover
+
+
