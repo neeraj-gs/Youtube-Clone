@@ -21,8 +21,13 @@ FLex
 This is how we do in Raw HTML 
 
     To do this in Tailwind CSS 
-        
+        We will add styles to the class-Name itself and make it better 
+        We add all the styles inside of html eelelmet inside teh className after importning TCSS 
 
+        Names are also slighttly changed 
+        justify-end 
+        justify-start 
+        justify-between ... 
 
 
 
