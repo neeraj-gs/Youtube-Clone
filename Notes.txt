@@ -78,7 +78,11 @@ text-fs //font size:12px and so on ,
 
 
 
-
+Building a Youtube CLone 
+    Steps to BUild a Youtube Clone 
+        1.Start from teh mobile dvice to the 2xl sizes 
+        2.Building Indivitaul compoents  adn then glue them into a complete page 
+        
 
 
 
