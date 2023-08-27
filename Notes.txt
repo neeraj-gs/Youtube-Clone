@@ -8,3 +8,27 @@ Thigs to know in a frontend Framework
     4.Bg color,text,color,hover
 
 
+FLex
+    It is used to make somethign flow 
+    Removes blockline behaviour of it 
+    justify-content:
+    flex-start
+    flex-end
+    center
+    space-between
+    space-around
+
+This is how we do in Raw HTML 
+
+    To do this in Tailwind CSS 
+        
+
+
+
+
+
+
+
+
+
+
