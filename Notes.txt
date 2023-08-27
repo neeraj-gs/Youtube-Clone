@@ -62,7 +62,35 @@ Responsiveness in Tailwind CSS
         Below sm Default exitsa and anyhting above froma  braeakpositnteh styles come it
             SO we need to add at each style and do it
         So after a Breakpoint till 2xl it takes the style , before hat efault 
-        
+    TO add like a Hamburger effect we have to use Grid based on Grid col-span and more
+
+Every COlor has 50 -950th color shade 
+In TCSS 
+    classNmae='bg-green-500 text-red-500' //to style in TCSS 
+
+text-fs //font size:12px and so on , 
+    We can use this styles to style font as well
+
+    border-radius - cureve on border 
+    rounded-sm 
+    rounder lg // In TCSS
+    rounded-full
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
